@@ -1,6 +1,6 @@
 # Shopping Cart
 
-Alisveris sitesinin sepet sureclerini yerine getiren rest apidir.
+Alisveris sitesinin sepet sureclerini yerine getiren rest apidir.Projeyi build ettikten sonra tarayiciniz ile 'http://localhost:8090/swagger-ui.html' adresine gidip api'ye ait tüm servisleri görebilir ve bu servislere request atıp, response'larini alabilirsiniz.
 
 # Sistemdeki Default Modeller
 
